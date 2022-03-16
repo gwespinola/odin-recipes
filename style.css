@@ -1,0 +1,29 @@
+a {
+  font-size: 18px;
+  line-height: 1.9;
+  color: white;
+}
+
+a:visited {
+  color: wheat;
+}
+
+a:hover {
+  color: blue;
+}
+
+body {
+  text-align:  left;
+  color: white;
+}
+
+h1,
+h2,
+h3,
+strong {
+  text-decoration: underline;
+}
+
+html {
+  background-color: rgba(0, 0, 0, 0.75);
+}
